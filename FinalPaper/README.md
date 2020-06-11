@@ -1,6 +1,5 @@
 # Final Paper Repo (MACS 30250)
-### Ruoyun Tan
-### June 2020
+### Ruoyun Tan, June 2020
 
 This repo contains:
 
